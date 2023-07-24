@@ -8,7 +8,7 @@ class Development(Config):
     # the name to display in your alive message
     ALIVE_NAME = "RadhaUserbot"
     # create any PostgreSQL database (i recommend to use elephantsql) and paste that link here
-    DB_URI = ""
+    DB_URI = "postgres://xhagcmjv:RcihLUmDeUm5X8oZwsr5iaesaVrBxxXi@mahmud.db.elephantsql.com/xhagcmjv"
     # After cloning the repo and installing requirements do python3 telesetup.py an fill th this
     LEGEND_STRING = "1BJWap1wBu69MbjrIkpxf7C0Giv8SIOfQJZ2bO1lWqnwP8s6hqzieTKSiPDReTVwqYfSmKBG-IcqKpKyaT6yZ4DWQ2AZViYte3IBKVuNlUz61IoMc3VmD6eRe8_w044pwXPKfwg4dyeOIbyV11RMgdMV4Rf0nLTb8KAQwtXhM9q9Z0xc5wnt94tJNcUGZ2-wzJb3ErcSlL8YdKyM0cXI-aSMDZBummn1r4APoPYezkyKv-5wTU5SOAS2KQcr-WmP1pA9SWAZRb3HSkaIPUqOhh1Y9uUMFrjacaIOgmswIe03vQDJWo23SSQiyUoF1BUQesVPCKydDNSzVe0dXL6wUuHLsxZMwgjQ="
     # create a new bot in @botfather and fill the following vales with bottoken
